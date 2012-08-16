@@ -1,6 +1,6 @@
 boundioV2 PHP Library
 ====
-boundio PHP Library V2 にはプッシュ音認識機能が追加されています。
+boundio PHP Library V2 にはプッシュ音認識機能が追加されています。<br />
 既存の「boundio PHP Library」のboundio ver2対応バージョンです。
 
 API
